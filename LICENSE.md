@@ -1,5 +1,5 @@
 # PolyForm Noncommercial License 1.0.0
-
+Required Notice: Copyright 2026 Alex Licuriceanu (alexlicuriceanu)
 <https://polyformproject.org/licenses/noncommercial/1.0.0>
 
 ## Acceptance
